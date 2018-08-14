@@ -1,5 +1,5 @@
 ---
-description: A curated list of all awesome stuff of the ejabberd ecosystem.
+description: A curated list of all awesome stuff from the ejabberd ecosystem.
 ---
 
 # Awesome Ejabberd
