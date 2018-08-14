@@ -1,6 +1,3 @@
----
-description: A curated list of all awesome stuff from the ejabberd ecosystem.
----
 
 # Awesome Ejabberd
 
