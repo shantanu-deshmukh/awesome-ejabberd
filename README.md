@@ -53,5 +53,5 @@
 * C:
   * [libstrophe](http://strophe.im/libstrophe/)
 
-
+> Follow me on [twitter ](https://twitter.com/askShantanu)or checkout [my site](https://shantanudeshmukh.com) for other awesome things.
 
