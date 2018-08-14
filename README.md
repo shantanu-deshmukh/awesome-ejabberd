@@ -1,5 +1,4 @@
-
-# Awesome Ejabberd
+# A curated list of all awesome stuff from the ejabberd ecosystem.
 
 ## Ejabberd
 
